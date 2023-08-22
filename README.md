@@ -1,1 +1,3 @@
 # Asynchronous_FIFO
+
+An asynchronous FIFO (First-In-First-Out) is a digital data storage design used in electronic systems to manage data transfer between two asynchronous clock domains. It ensures orderly data flow by temporarily storing incoming data, allowing different clock domains to operate independently without synchronization issues. This design prevents data loss or corruption during clock domain transitions. Asynchronous FIFOs are crucial in scenarios where data is generated and consumed at varying rates, such as in communication interfaces and integrated circuits, ensuring reliable and efficient data exchange while accommodating clock domain differences.
